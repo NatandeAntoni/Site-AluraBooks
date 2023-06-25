@@ -9,3 +9,11 @@
             height: 24px;
             background-image: url(“../img/Menu.svg”);
             display: inline-block;
+            @import url(“styles/header.css”);
+            :root {
+                --cor-de-fundo: #EBECEE;
+                --branco: #FFFFFF;
+                }
+                .cabeçalho {
+                    background-color: var(--branco);
+                    }
