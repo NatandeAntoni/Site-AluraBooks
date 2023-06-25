@@ -5,8 +5,8 @@
         background-color: var(--cor-de-fundo);
         }
         .cabeçalho__menu-hamburguer {
-            width: 24px;
-            height: 24px;
+            width: 24 px;
+            height: 24 px;
             background-image: url(“../img/Menu.svg”);
             display: inline-block;
             @import url(“styles/header.css”);
@@ -18,8 +18,8 @@
                     background-color: var(--branco);
                     }
                     .cabeçalho__menu-hamburguer {
-                        width: 24px;
-                        height: 24px;
+                        width: 24 px;
+                        height: 24 px;
                         background-image: url(“../img/Menu.svg”);
                         background-repeat: no-repeat;
                         background-position: center;
